@@ -1,0 +1,18 @@
+body{
+
+    background-image: url("C:\Users\sris2\Music\cloud.avif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}.formContainer{
+    height: 400px;
+    width: 450px;
+    overflow: hidden;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 35%;
+    margin-right: 45%;
+    border-radius: 20px;
+  }
+  
